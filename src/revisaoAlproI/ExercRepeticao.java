@@ -1,7 +1,5 @@
 package revisaoAlproI;
 
-import java.util.*;
-
 public class ExercRepeticao {
 	public String concatenaInteiros(int n) {
 		String res = "";
