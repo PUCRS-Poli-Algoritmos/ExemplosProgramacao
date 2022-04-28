@@ -3,6 +3,7 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/mnt/d/Users/mcmor/Dropbox/M/WSGitLocalNew/MavenRep/utiltimecounter.jar"
+        "/mnt/d/Users/mcmor/Dropbox/M/WSGitLocalNew/MavenRep/utiltimecounter.jar",
+        "/mnt/d/Users/mcmor/Dropbox/M/WSGitLocalNew/MavenRep/lombok.jar"
     ]
 }

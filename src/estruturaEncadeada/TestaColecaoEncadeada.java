@@ -24,21 +24,21 @@ public class TestaColecaoEncadeada {
 		
 //		System.out.println(lst.get(3));   //ERRO
 		
-		// lst.addLast("100");
-		// lst.addLast("200");
-		// lst.addLast("300");
-		// lst.addLast("400");
-		// System.out.println(lst);
-		// lst.removeFirst();
-		// System.out.println(lst);
-		// lst.removeFirst();
-		// System.out.println(lst);
-		// lst.removeFirst();
-		// System.out.println(lst);
+		lst.addLast("100");
+		lst.addLast("200");
+		lst.addLast("300");
+		lst.addLast("400");
+		System.out.println(lst);
+		lst.removeFirst();
+		System.out.println(lst);
+		lst.removeFirst();
+		System.out.println(lst);
+		lst.removeFirst();
+		System.out.println(lst);
 		
-		// lst.removeLast();
-		// lst.removeLast();
-		// System.out.println(lst);
+		lst.removeLast();
+		lst.removeLast();
+		System.out.println(lst);
 		
 	
 //		lst = new ColecaoEncadeada();
